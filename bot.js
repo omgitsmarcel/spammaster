@@ -58,9 +58,9 @@ if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send(`**كسم اي حد يعترض طريقنا :five: :zero: :five: @everyone .**[ " ${x} " ]`)
+            count++;        message.channel.send(`**Hacked u by unknowun is Here  Hacked u by unknowun is Here Hacked u by unknowun is Here Hacked u by unknowun is Here Hacked u by unknowun is Here Hacked u by unknowun is Here Hacked u by unknowun is Here Hacked u by unknowun is Here Hacked u by unknowun is Here Hacked u by unknowun is Here Hacked u by unknowun is Here Hacked u by unknowun is Here.**[ " ${x} " ]`)
           .then(m => {
-            count++;
+
           })
           
         }
@@ -72,7 +72,7 @@ if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send(`**كسم اي حد يعترض طريقنا :five: :zero: :five: @everyone .**[ " ${x} " ]`)
+        message.channel.send(`** Hacked u by unknowun is Here  Hacked u by unknowun is Here Hacked u by unknowun is Here Hacked u by unknowun is Here Hacked u by unknowun is Here Hacked u by unknowun is Here Hacked u by unknowun is Here Hacked u by unknowun is Here Hacked u by unknowun is Here Hacked u by unknowun is Here Hacked u by unknowun is Here Hacked u by unknowun is Here.**[ " ${x} " ]`)
           .then(m => {
             count++;
           })
